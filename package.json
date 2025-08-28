@@ -2,7 +2,6 @@
   "name": "goit-react-hw-01",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://azuretigerstudios.github.io/goit-react-hw-01/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -13,7 +12,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
   },
